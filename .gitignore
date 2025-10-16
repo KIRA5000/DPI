@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# Build artifacts
+/build/
+/build/**
+
+# Input and output PCAPs and CSVs
+/input/
+/input/**
+/output/
+/output/**
+
+# Editor/IDE stuff (optional)
+.vscode/
+*.swp
